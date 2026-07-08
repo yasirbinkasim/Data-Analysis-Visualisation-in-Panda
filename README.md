@@ -36,23 +36,4 @@ Transforming complex data into easily digestible visual insights:
 * **Data Visualization:** `Matplotlib`, `Seaborn`, `Plotly` (for interactive charts)
 * **Environment:** Jupyter Notebook / Google Colab
 
----
 
-## 📊 Sample Visualizations & Insights
-
-*(Tip: Save your generated plots/charts inside an `insights/` folder and link them here to make your README look stunning)*
-
-| Correlation Heatmap | Feature Distribution |
-| :---: | :---: |
-| ![Heatmap](https://via.placeholder.com/400x250?text=Correlation+Heatmap+Plot) | ![Distribution](https://via.placeholder.com/400x250?text=Distribution+Curve+Plot) |
-
----
-
-## 🚀 How to Run the Notebooks Locally
-
-Follow these steps to set up the environment and run the analysis on your machine:
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
